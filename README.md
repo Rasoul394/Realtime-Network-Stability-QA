@@ -1,7 +1,7 @@
 # Real-time Network Stability & Latency QA Suite
 
 ## Context & Motivation
-In high-stakes industrial environments, such as **Blast Furnace Control Rooms** (where I spent 13 years), network reliability is a safety-critical factor. Even a few hundred milliseconds of latency can delay emergency sensor data. This project demonstrates an automated QA approach to monitoring and validating network stability for real-time applications.
+In high-stakes industrial environments, such as **Blast Furnace Control Rooms** network reliability is a safety-critical factor. Even a few hundred milliseconds of latency can delay emergency sensor data. This project demonstrates an automated QA approach to monitoring and validating network stability for real-time applications.
 
 ## Tech Stack
 * **Language:** Python 3.x
